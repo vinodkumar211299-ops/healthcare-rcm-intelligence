@@ -1,0 +1,151 @@
+Provider_ID,Provider_Name,Specialty,Practice_State,Network_Status,Provider_Type,Billing_System,Synthetic_Provider_Flag
+PRV0001,North 1 Medical Group,Neurology,TX,In-Network,Ambulatory Surgery Center,Practice Management System,Y
+PRV0002,North 2 Medical Group,Primary Care,NC,In-Network,Physician Group,Hospital Billing System,Y
+PRV0003,North 3 Medical Group,OB/GYN,FL,In-Network,Physician Group,EHR-A,Y
+PRV0004,North 4 Medical Group,Radiology,OH,In-Network,Imaging Center,EHR-B,Y
+PRV0005,North 5 Medical Group,Orthopedics,NJ,In-Network,Physician Group,EHR-B,Y
+PRV0006,North 6 Medical Group,Gastroenterology,AZ,In-Network,Physician Group,EHR-B,Y
+PRV0007,North 7 Medical Group,Gastroenterology,CA,In-Network,Physician Group,Hospital Billing System,Y
+PRV0008,North 8 Medical Group,Radiology,NC,In-Network,Physician Group,EHR-B,Y
+PRV0009,North 9 Medical Group,Orthopedics,GA,Out-of-Network,Physician Group,Practice Management System,Y
+PRV0010,North 10 Medical Group,Radiology,WI,In-Network,Physician Group,Practice Management System,Y
+PRV0011,North 11 Medical Group,Primary Care,IN,In-Network,Imaging Center,Hospital Billing System,Y
+PRV0012,North 12 Medical Group,Behavioral Health,NC,Out-of-Network,Hospital,Practice Management System,Y
+PRV0013,North 13 Medical Group,Orthopedics,PA,Out-of-Network,Physician Group,Practice Management System,Y
+PRV0014,North 14 Medical Group,Radiology,MO,In-Network,Hospital,Practice Management System,Y
+PRV0015,North 15 Medical Group,OB/GYN,FL,In-Network,Physician Group,Practice Management System,Y
+PRV0016,North 16 Medical Group,Behavioral Health,AZ,Out-of-Network,Physician Group,Hospital Billing System,Y
+PRV0017,North 17 Medical Group,Primary Care,MO,In-Network,Physician Group,Practice Management System,Y
+PRV0018,North 18 Medical Group,Dermatology,MA,In-Network,Physician Group,Hospital Billing System,Y
+PRV0019,North 19 Medical Group,Gastroenterology,WA,In-Network,Behavioral Health Clinic,Practice Management System,Y
+PRV0020,North 20 Medical Group,Emergency Medicine,OH,In-Network,Hospital,EHR-B,Y
+PRV0021,North 21 Medical Group,Cardiology,NC,In-Network,Physician Group,EHR-B,Y
+PRV0022,North 22 Medical Group,OB/GYN,MO,In-Network,Physician Group,EHR-B,Y
+PRV0023,North 23 Medical Group,Dermatology,MO,Out-of-Network,Physician Group,EHR-B,Y
+PRV0024,North 24 Medical Group,Gastroenterology,NY,In-Network,Behavioral Health Clinic,Hospital Billing System,Y
+PRV0025,North 25 Medical Group,Emergency Medicine,IN,In-Network,Imaging Center,Hospital Billing System,Y
+PRV0026,North 26 Medical Group,Radiology,PA,In-Network,Imaging Center,EHR-A,Y
+PRV0027,North 27 Medical Group,OB/GYN,IL,Out-of-Network,Physician Group,Hospital Billing System,Y
+PRV0028,North 28 Medical Group,Emergency Medicine,NY,In-Network,Imaging Center,Hospital Billing System,Y
+PRV0029,North 29 Medical Group,Orthopedics,GA,Out-of-Network,Physician Group,Practice Management System,Y
+PRV0030,North 30 Medical Group,Emergency Medicine,CO,In-Network,Physician Group,EHR-B,Y
+PRV0031,North 31 Medical Group,Primary Care,PA,In-Network,Behavioral Health Clinic,Practice Management System,Y
+PRV0032,North 32 Medical Group,Emergency Medicine,WA,In-Network,Physician Group,Practice Management System,Y
+PRV0033,North 33 Medical Group,Neurology,MI,In-Network,Physician Group,EHR-B,Y
+PRV0034,North 34 Medical Group,Radiology,MI,In-Network,Behavioral Health Clinic,Practice Management System,Y
+PRV0035,North 35 Medical Group,Dermatology,WI,In-Network,Physician Group,EHR-B,Y
+PRV0036,North 36 Medical Group,Primary Care,NC,In-Network,Physician Group,Hospital Billing System,Y
+PRV0037,North 37 Medical Group,Primary Care,FL,In-Network,Ambulatory Surgery Center,EHR-B,Y
+PRV0038,North 38 Medical Group,Behavioral Health,AZ,In-Network,Physician Group,Practice Management System,Y
+PRV0039,North 39 Medical Group,Orthopedics,TN,Out-of-Network,Behavioral Health Clinic,Practice Management System,Y
+PRV0040,North 40 Medical Group,Behavioral Health,GA,In-Network,Physician Group,Hospital Billing System,Y
+PRV0041,North 41 Medical Group,Emergency Medicine,VA,In-Network,Behavioral Health Clinic,Practice Management System,Y
+PRV0042,North 42 Medical Group,Emergency Medicine,TN,In-Network,Imaging Center,Hospital Billing System,Y
+PRV0043,North 43 Medical Group,Primary Care,AZ,In-Network,Physician Group,Practice Management System,Y
+PRV0044,North 44 Medical Group,Emergency Medicine,GA,In-Network,Physician Group,EHR-B,Y
+PRV0045,North 45 Medical Group,Radiology,IL,In-Network,Physician Group,EHR-A,Y
+PRV0046,North 46 Medical Group,Radiology,MO,In-Network,Physician Group,Hospital Billing System,Y
+PRV0047,North 47 Medical Group,Radiology,WI,Out-of-Network,Imaging Center,EHR-B,Y
+PRV0048,North 48 Medical Group,Cardiology,AZ,In-Network,Hospital,Hospital Billing System,Y
+PRV0049,North 49 Medical Group,OB/GYN,VA,In-Network,Physician Group,EHR-B,Y
+PRV0050,North 50 Medical Group,Neurology,VA,Out-of-Network,Ambulatory Surgery Center,EHR-A,Y
+PRV0051,Metro 1 Medical Group,Behavioral Health,GA,In-Network,Physician Group,Practice Management System,Y
+PRV0052,Metro 2 Medical Group,Neurology,IL,In-Network,Physician Group,EHR-A,Y
+PRV0053,Metro 3 Medical Group,Gastroenterology,OH,In-Network,Physician Group,EHR-B,Y
+PRV0054,Metro 4 Medical Group,Radiology,VA,In-Network,Hospital,EHR-B,Y
+PRV0055,Metro 5 Medical Group,Cardiology,CO,Out-of-Network,Ambulatory Surgery Center,EHR-A,Y
+PRV0056,Metro 6 Medical Group,Emergency Medicine,IN,Out-of-Network,Behavioral Health Clinic,Hospital Billing System,Y
+PRV0057,Metro 7 Medical Group,OB/GYN,AZ,In-Network,Ambulatory Surgery Center,Hospital Billing System,Y
+PRV0058,Metro 8 Medical Group,Neurology,OH,In-Network,Physician Group,Practice Management System,Y
+PRV0059,Metro 9 Medical Group,Gastroenterology,PA,In-Network,Physician Group,Practice Management System,Y
+PRV0060,Metro 10 Medical Group,Primary Care,GA,In-Network,Behavioral Health Clinic,EHR-A,Y
+PRV0061,Metro 11 Medical Group,Radiology,CA,In-Network,Physician Group,EHR-B,Y
+PRV0062,Metro 12 Medical Group,Cardiology,TN,In-Network,Imaging Center,EHR-B,Y
+PRV0063,Metro 13 Medical Group,Neurology,IN,In-Network,Physician Group,Practice Management System,Y
+PRV0064,Metro 14 Medical Group,OB/GYN,GA,Out-of-Network,Physician Group,EHR-B,Y
+PRV0065,Metro 15 Medical Group,Radiology,VA,Out-of-Network,Imaging Center,EHR-B,Y
+PRV0066,Metro 16 Medical Group,Gastroenterology,IN,Out-of-Network,Hospital,Hospital Billing System,Y
+PRV0067,Metro 17 Medical Group,Cardiology,GA,In-Network,Physician Group,Practice Management System,Y
+PRV0068,Metro 18 Medical Group,Dermatology,MA,In-Network,Hospital,Hospital Billing System,Y
+PRV0069,Metro 19 Medical Group,Behavioral Health,NY,In-Network,Physician Group,EHR-B,Y
+PRV0070,Metro 20 Medical Group,Neurology,GA,In-Network,Ambulatory Surgery Center,EHR-B,Y
+PRV0071,Metro 21 Medical Group,Orthopedics,WA,In-Network,Physician Group,EHR-B,Y
+PRV0072,Metro 22 Medical Group,Emergency Medicine,CO,In-Network,Physician Group,Practice Management System,Y
+PRV0073,Metro 23 Medical Group,Radiology,MI,In-Network,Ambulatory Surgery Center,Hospital Billing System,Y
+PRV0074,Metro 24 Medical Group,Cardiology,TN,In-Network,Physician Group,Hospital Billing System,Y
+PRV0075,Metro 25 Medical Group,Orthopedics,MI,In-Network,Imaging Center,Practice Management System,Y
+PRV0076,Metro 26 Medical Group,OB/GYN,VA,In-Network,Hospital,Hospital Billing System,Y
+PRV0077,Metro 27 Medical Group,Cardiology,TX,In-Network,Hospital,EHR-B,Y
+PRV0078,Metro 28 Medical Group,Cardiology,NC,In-Network,Hospital,Hospital Billing System,Y
+PRV0079,Metro 29 Medical Group,Dermatology,VA,Out-of-Network,Physician Group,Hospital Billing System,Y
+PRV0080,Metro 30 Medical Group,Dermatology,TX,In-Network,Hospital,Hospital Billing System,Y
+PRV0081,Metro 31 Medical Group,Primary Care,TX,Out-of-Network,Behavioral Health Clinic,EHR-B,Y
+PRV0082,Metro 32 Medical Group,Orthopedics,TX,In-Network,Imaging Center,Hospital Billing System,Y
+PRV0083,Metro 33 Medical Group,OB/GYN,MO,In-Network,Behavioral Health Clinic,EHR-B,Y
+PRV0084,Metro 34 Medical Group,Cardiology,IN,In-Network,Hospital,EHR-B,Y
+PRV0085,Metro 35 Medical Group,Gastroenterology,NC,In-Network,Ambulatory Surgery Center,EHR-A,Y
+PRV0086,Metro 36 Medical Group,Behavioral Health,NJ,In-Network,Physician Group,EHR-A,Y
+PRV0087,Metro 37 Medical Group,Emergency Medicine,IN,In-Network,Physician Group,Hospital Billing System,Y
+PRV0088,Metro 38 Medical Group,Primary Care,NY,In-Network,Imaging Center,Practice Management System,Y
+PRV0089,Metro 39 Medical Group,OB/GYN,CA,In-Network,Physician Group,Practice Management System,Y
+PRV0090,Metro 40 Medical Group,Behavioral Health,MI,Out-of-Network,Physician Group,Hospital Billing System,Y
+PRV0091,Metro 41 Medical Group,Gastroenterology,MI,In-Network,Imaging Center,Practice Management System,Y
+PRV0092,Metro 42 Medical Group,Cardiology,TN,Out-of-Network,Physician Group,EHR-A,Y
+PRV0093,Metro 43 Medical Group,Cardiology,VA,Out-of-Network,Physician Group,EHR-B,Y
+PRV0094,Metro 44 Medical Group,Neurology,IL,In-Network,Behavioral Health Clinic,EHR-A,Y
+PRV0095,Metro 45 Medical Group,Primary Care,AZ,In-Network,Hospital,EHR-B,Y
+PRV0096,Metro 46 Medical Group,Radiology,TN,In-Network,Physician Group,EHR-B,Y
+PRV0097,Metro 47 Medical Group,Orthopedics,MA,In-Network,Hospital,Hospital Billing System,Y
+PRV0098,Metro 48 Medical Group,Orthopedics,NC,In-Network,Physician Group,EHR-A,Y
+PRV0099,Metro 49 Medical Group,Cardiology,MO,In-Network,Imaging Center,EHR-A,Y
+PRV0100,Metro 50 Medical Group,Emergency Medicine,GA,In-Network,Behavioral Health Clinic,Practice Management System,Y
+PRV0101,Community 1 Medical Group,Radiology,GA,In-Network,Hospital,EHR-B,Y
+PRV0102,Community 2 Medical Group,Orthopedics,MO,In-Network,Ambulatory Surgery Center,Hospital Billing System,Y
+PRV0103,Community 3 Medical Group,Dermatology,PA,In-Network,Hospital,EHR-A,Y
+PRV0104,Community 4 Medical Group,OB/GYN,NY,In-Network,Physician Group,EHR-A,Y
+PRV0105,Community 5 Medical Group,Neurology,CO,In-Network,Physician Group,Hospital Billing System,Y
+PRV0106,Community 6 Medical Group,Behavioral Health,CO,In-Network,Physician Group,Hospital Billing System,Y
+PRV0107,Community 7 Medical Group,Neurology,IN,In-Network,Behavioral Health Clinic,EHR-B,Y
+PRV0108,Community 8 Medical Group,Gastroenterology,GA,In-Network,Physician Group,Hospital Billing System,Y
+PRV0109,Community 9 Medical Group,Neurology,IL,In-Network,Physician Group,EHR-A,Y
+PRV0110,Community 10 Medical Group,Gastroenterology,PA,In-Network,Physician Group,Practice Management System,Y
+PRV0111,Community 11 Medical Group,Neurology,TN,In-Network,Imaging Center,EHR-A,Y
+PRV0112,Community 12 Medical Group,Radiology,MI,In-Network,Physician Group,Hospital Billing System,Y
+PRV0113,Community 13 Medical Group,Orthopedics,CO,In-Network,Behavioral Health Clinic,Hospital Billing System,Y
+PRV0114,Community 14 Medical Group,Dermatology,OH,In-Network,Hospital,EHR-B,Y
+PRV0115,Community 15 Medical Group,Gastroenterology,MI,In-Network,Ambulatory Surgery Center,Practice Management System,Y
+PRV0116,Community 16 Medical Group,Neurology,MO,In-Network,Hospital,Practice Management System,Y
+PRV0117,Community 17 Medical Group,Orthopedics,MO,In-Network,Hospital,EHR-A,Y
+PRV0118,Community 18 Medical Group,Radiology,FL,In-Network,Hospital,EHR-A,Y
+PRV0119,Community 19 Medical Group,Radiology,IN,In-Network,Physician Group,Hospital Billing System,Y
+PRV0120,Community 20 Medical Group,Gastroenterology,PA,In-Network,Hospital,EHR-B,Y
+PRV0121,Community 21 Medical Group,Primary Care,PA,In-Network,Physician Group,Practice Management System,Y
+PRV0122,Community 22 Medical Group,Cardiology,MA,In-Network,Physician Group,EHR-B,Y
+PRV0123,Community 23 Medical Group,Behavioral Health,TN,In-Network,Physician Group,Practice Management System,Y
+PRV0124,Community 24 Medical Group,Primary Care,CA,In-Network,Physician Group,EHR-A,Y
+PRV0125,Community 25 Medical Group,OB/GYN,CO,In-Network,Imaging Center,EHR-A,Y
+PRV0126,Community 26 Medical Group,Primary Care,TX,In-Network,Physician Group,Practice Management System,Y
+PRV0127,Community 27 Medical Group,Emergency Medicine,WA,In-Network,Ambulatory Surgery Center,EHR-A,Y
+PRV0128,Community 28 Medical Group,Neurology,FL,In-Network,Imaging Center,Hospital Billing System,Y
+PRV0129,Community 29 Medical Group,Orthopedics,MA,In-Network,Hospital,Hospital Billing System,Y
+PRV0130,Community 30 Medical Group,Behavioral Health,CO,In-Network,Imaging Center,EHR-A,Y
+PRV0131,Community 31 Medical Group,Orthopedics,IN,Out-of-Network,Behavioral Health Clinic,EHR-A,Y
+PRV0132,Community 32 Medical Group,Cardiology,MI,Out-of-Network,Physician Group,Hospital Billing System,Y
+PRV0133,Community 33 Medical Group,Behavioral Health,CO,In-Network,Hospital,Practice Management System,Y
+PRV0134,Community 34 Medical Group,Emergency Medicine,OH,In-Network,Physician Group,EHR-A,Y
+PRV0135,Community 35 Medical Group,Gastroenterology,NY,Out-of-Network,Physician Group,EHR-B,Y
+PRV0136,Community 36 Medical Group,Behavioral Health,NY,In-Network,Hospital,EHR-A,Y
+PRV0137,Community 37 Medical Group,Gastroenterology,IL,In-Network,Physician Group,EHR-A,Y
+PRV0138,Community 38 Medical Group,Dermatology,IN,In-Network,Hospital,EHR-B,Y
+PRV0139,Community 39 Medical Group,Primary Care,TN,Out-of-Network,Physician Group,EHR-A,Y
+PRV0140,Community 40 Medical Group,Dermatology,IL,Out-of-Network,Physician Group,Hospital Billing System,Y
+PRV0141,Community 41 Medical Group,Radiology,FL,In-Network,Physician Group,Hospital Billing System,Y
+PRV0142,Community 42 Medical Group,Cardiology,GA,In-Network,Hospital,EHR-A,Y
+PRV0143,Community 43 Medical Group,Neurology,VA,In-Network,Ambulatory Surgery Center,Practice Management System,Y
+PRV0144,Community 44 Medical Group,Gastroenterology,IL,In-Network,Physician Group,Hospital Billing System,Y
+PRV0145,Community 45 Medical Group,Radiology,GA,Out-of-Network,Physician Group,EHR-A,Y
+PRV0146,Community 46 Medical Group,Dermatology,WI,In-Network,Physician Group,Hospital Billing System,Y
+PRV0147,Community 47 Medical Group,Primary Care,WA,In-Network,Behavioral Health Clinic,EHR-A,Y
+PRV0148,Community 48 Medical Group,OB/GYN,FL,In-Network,Hospital,EHR-B,Y
+PRV0149,Community 49 Medical Group,Cardiology,GA,In-Network,Physician Group,Hospital Billing System,Y
+PRV0150,Community 50 Medical Group,Neurology,CO,In-Network,Imaging Center,Practice Management System,Y

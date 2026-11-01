@@ -1,0 +1,16 @@
+Payer_ID,Payer_Name,Payer_Type,Claim_Filing_Limit_Days,Electronic_Submission_Available
+ABC1234567,Blue Cross Blue Shield,Commercial,90,Y
+AET1234567,Aetna,Commercial,90,Y
+U12345678,UnitedHealthcare,Commercial,90,Y
+U123456789,Cigna,Commercial,90,Y
+HUM1234567,Humana,Commercial,90,Y
+KAI1234567,Kaiser Permanente,Commercial,90,Y
+AMB1234567,Ambetter,Commercial,90,Y
+MOL1234567,Molina Healthcare,Commercial,90,Y
+1234567890,Meritain Health,Commercial,90,Y
+ANT1234567,Anthem,Commercial,90,Y
+CEN1234567,Centene,Commercial,90,Y
+MCR1234567,Medicare,Government,365,Y
+MCD1234567,Medicaid,Government,180,Y
+TRI1234567,TRICARE,Government,365,Y
+CHV1234567,CHAMPVA,Government,365,Y
